@@ -1,2 +1,2 @@
 # ArrayList
-Breve introducción los ArrayList
+Breve introducción a los ArrayList
